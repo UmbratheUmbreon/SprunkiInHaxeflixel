@@ -1,0 +1,3 @@
+*.code-workspace
+export/*
+vscode-project.hxml
